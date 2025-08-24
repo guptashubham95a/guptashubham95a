@@ -24,11 +24,11 @@
 
 ## 🛠️ Tech Stack  
 
- **Languages:** C/C++, C#, JavaScript, TypeScript, Java, Python, Dart, HTML5, CSS, SQL, R  
- **Frameworks/Libraries:** React.js, Next.js, Spring Boot, Flask, Fast API, Node.js, TensorFlow, MCP, LangChain, Crew AI   
- **AI/ML:** LangChain, MCP, Crew AI, OpenAI, RAG pipelines, Vector DBs (Pinecone, Elasticsearch), TensorFlow  
- **Developer Tools:** Git, GitHub, Linux, MongoDB, AWS, Azure, GCP, RESTful APIs, Docker, Kubernetes, Cursor   
-**Concepts:** Data Structures and Algorithms, Object Oriented Design, Agile, System Design, Generative AI, LLM 
+ - **Languages:** C/C++, C#, JavaScript, TypeScript, Java, Python, Dart, HTML5, CSS, SQL, R  
+ - **Frameworks/Libraries:** React.js, Next.js, Spring Boot, Flask, Fast API, Node.js, TensorFlow, MCP, LangChain, Crew AI   
+ - **AI/ML:** LangChain, MCP, Crew AI, OpenAI, RAG pipelines, Vector DBs (Pinecone, Elasticsearch), TensorFlow  
+ - **Developer Tools:** Git, GitHub, Linux, MongoDB, AWS, Azure, GCP, RESTful APIs, Docker, Kubernetes, Cursor   
+- **Concepts:** Data Structures and Algorithms, Object Oriented Design, Agile, System Design, Generative AI, LLM 
 
 ---
 
