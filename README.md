@@ -24,10 +24,11 @@
 
 ## 🛠️ Tech Stack  
 
-**Languages:** C++, Python, Java, TypeScript, JavaScript, SQL  
-**Frameworks:** React.js, Next.js, Spring Boot, Flask, FastAPI, Node.js  
-**AI/ML:** LangChain, TensorFlow, OpenAI, RAG pipelines, Vector DBs (Pinecone, Elasticsearch)  
-**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, GitHub Actions, CI/CD  
+ **Languages:** C/C++, C#, JavaScript, TypeScript, Java, Python, Dart, HTML5, CSS, SQL, R  
+ **Frameworks/Libraries:** React.js, Next.js, Spring Boot, Flask, Fast API, Node.js, TensorFlow, MCP, LangChain, Crew AI   
+ **AI/ML:** LangChain, MCP, Crew AI, OpenAI, RAG pipelines, Vector DBs (Pinecone, Elasticsearch), TensorFlow  
+ **Developer Tools:** Git, GitHub, Linux, MongoDB, AWS, Azure, GCP, RESTful APIs, Docker, Kubernetes, Cursor   
+**Concepts:** Data Structures and Algorithms, Object Oriented Design, Agile, System Design, Generative AI, LLM 
 
 ---
 
@@ -37,13 +38,6 @@
 - 🥇 Awarded **1st Prize** for Best Paper from a pool of over **500+ participants** on a pan-India scale.  
 - 🌍 Achieved **Global Rank #412** and **College Rank #1** out of **10,000+ contenders** in **CodeChef January Challenge**.  
 - 🥉 Won **3rd Prize** in the RGIT Recursion **Hackathon**, competing against **115+ teams** across India.  
-
----
-
-## 📊 GitHub Analytics  
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptashubham95a&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptashubham95a&layout=compact&theme=radical)  
 
 ---
 
