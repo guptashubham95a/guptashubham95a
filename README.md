@@ -1,88 +1,60 @@
-<!--
-**guptashubham95a/guptashubham95a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey! I'm Shubham Gupta  
 
-Here are some ideas to get you started:
+💡 **Software Engineer (AI/Full-Stack)** with **3+ years of experience** at **Uber, Dell Technologies, NEW EIC, Ombre, & Quloi**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hey! I'm Shubham Gupta</h1>
+🎓 Graduated (2025) with Master’s in Computer Science @ **Illinois Institute of Technology**  
 
-###
+🚀 Skilled in **Full Stack Development, Cloud-Native Microservices, Generative AI, LLMs, RAG pipelines, LangChain, and Vector Databases**  
 
-**<h4 align="center"> Passionate Software Engineer || Ex- SDE Intern at Ombré || Ex- SDE Intern at Quloi || 4 🌟 @Codechef </h4>**
+💡 Open to opportunities in **Software Engineer AI, Full-Stack, and related roles**  
 
-###
+📄 Know about my experiences and achievements on: [LinkedIn](https://www.linkedin.com/in/shubham91) | [Portfolio](https://portfolio3a.vercel.app/)  
 
-- I eagerly anticipate chances to learn, develop, and make a meaningful impact on the world through my technical expertise.
+📫 How to reach me: **[guptashubham95a@gmail.com](mailto:guptashubham95a@gmail.com)**
 
-###
+---
 
-- My passion for technology makes me a hardworking individual with great leadership qualities.
+## 📌 About Me  
+- 🏗️ Built enterprise-scale systems at **Uber** and **Dell**, improving scalability, automation, and efficiency.  
+- 🤖 At **NEW EIC**, engineered **LLM-powered RAG pipelines, MCP servers, and AWS Lambda integrations**, boosting chatbot accuracy by **40%** and saving **$30K annually**.  
+- 📚 Creator of **CampusAI**, an AI blogging platform integrating **LangChain, OpenAI, and Elasticsearch** for semantic search and context-aware responses.  
+- 🌍 Passionate about **building scalable, AI-driven products** with real-world impact.  
 
-###
+---
 
-- 📄 Know about my experiences and achievements Resume **[Resume]()**
+## 🛠️ Tech Stack  
 
-###
+**Languages:** C++, Python, Java, TypeScript, JavaScript, SQL  
+**Frameworks:** React.js, Next.js, Spring Boot, Flask, FastAPI, Node.js  
+**AI/ML:** LangChain, TensorFlow, OpenAI, RAG pipelines, Vector DBs (Pinecone, Elasticsearch)  
+**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, GitHub Actions, CI/CD  
 
-- 🏆 Proficient in DSA, ** 4⭐ (1923) at [Codechef](https://www.codechef.com/users/shubh95a) **
+---
 
-###
+## 🏆 Competitive Achievements  
 
-- 📫 How to reach me **guptashubham95a@gmail.com**
+- 👨‍🏫 **Best Teaching Assistant Award** for Mobile Application Development and Database courses, mentoring and assisting over **300+ students**.  
+- 🥇 Awarded **1st Prize** for Best Paper from a pool of over **500+ participants** on a pan-India scale.  
+- 🌍 Achieved **Global Rank #412** and **College Rank #1** out of **10,000+ contenders** in **CodeChef January Challenge**.  
+- 🥉 Won **3rd Prize** in the RGIT Recursion **Hackathon**, competing against **115+ teams** across India.  
 
-###
+---
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/shubham91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham" height="30" width="40" /></a>
-<a href="https://instagram.com/shubham4everr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shubham" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shubh95a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="soumik43" height="30" width="40" /></a>
-<!--
-<a href="https://www.leetcode.com/soumik43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumik43" height="30" width="40" /></a>
-  -->
-<a href="https://stackoverflow.com/users/15693529/shubham-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soumik paul" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Analytics  
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptashubham95a&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptashubham95a&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect With Me  
+📫 How to reach me: **[guptashubham95a@gmail.com](mailto:guptashubham95a@gmail.com)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham91)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://portfolio3a.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/guptashubham95a)  
 
 
-<h2 align="left">Languages and Tools:</h2>
+---
 
-###
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/guptashubham95a/guptashubham95a/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guptashubham95a&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
+✨ *“Building scalable software and AI-driven products with real-world impact.”*  
